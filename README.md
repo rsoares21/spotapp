@@ -1,1 +1,1 @@
-"# spotapp" 
+"# spotapp - The best" 
